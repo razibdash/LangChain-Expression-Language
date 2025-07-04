@@ -1,0 +1,31 @@
+Razib Dash is an educator and technologist with a strong foundation in computer science, data analytics, and artificial intelligence. With hands-on experience in tools like LangChain, Generative AI, and MERN stack development, Razib blends deep technical skills with a passion for teaching and innovation.
+
+His areas of interest include:
+
+Generative AI & Language Models (e.g., LLaMA, ChatGPT)
+
+Full-stack Development (MongoDB, Express, React, Node.js)
+
+Data Science & Machine Learning
+
+Educational Technology & AI-driven learning systems
+
+Razib is committed to continuous learning and building intelligent systems that solve real-world problems. Whether in the classroom or the codebase, he values clarity, creativity, and collaboration.
+
+Razib Dash is an academic and researcher specializing in computer science, with particular focus on artificial intelligence, machine learning, and computational education. His work bridges the gap between emerging AI technologies and pedagogical innovation, aiming to enhance learning experiences through intelligent systems.
+
+He has worked extensively with modern AI frameworks such as LangChain, LLaMA models, and transformer-based architectures, exploring their applications in natural language understanding, generative systems, and knowledge representation. Razib also engages in applied research involving MERN stack technologies for building interactive learning tools and AI-powered platforms.
+
+His academic interests include:
+
+Generative AI in education
+
+Natural language processing and prompt engineering
+
+AI-driven curriculum personalization
+
+Full-stack web development for research applications
+
+Open-source contributions in educational technology
+
+Razib is passionate about fostering interdisciplinary collaboration, mentoring students, and contributing to the advancement of AI literacy in academic environments.
